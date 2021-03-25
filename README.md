@@ -1,0 +1,2 @@
+# sumardiyono
+/sdcard
